@@ -1,0 +1,5 @@
+C:\Users\Z3RRO\source\repos\OtsosDerma\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+C:\Users\Z3RRO\source\repos\OtsosDerma\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+C:\Users\Z3RRO\source\repos\OtsosDerma\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Z3RRO\source\repos\OtsosDerma\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+C:\Users\Z3RRO\source\repos\OtsosDerma\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb

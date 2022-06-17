@@ -15,12 +15,15 @@ C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\bin\Debug\K4os.Hash.xxHash.dll
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\bin\Debug\MySql.Data.xml
-C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.csproj.AssemblyReference.cache
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.exe.config
-C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.Form1.resources
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.Properties.Resources.resources
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.csproj.GenerateResource.cache
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.csproj.CoreCompileInputs.cache
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.csproj.CopyComplete
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.exe
 C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.pdb
+C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.AddClient.resources
+C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.MainForm.resources
+C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\bin\Debug\ClassLibraryTest.dll
+C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\bin\Debug\ClassLibraryTest.pdb
+C:\Users\Z3RRO\source\repos\OtsosDerma\testGovna\obj\Debug\testGovna.csproj.AssemblyReference.cache

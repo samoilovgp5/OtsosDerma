@@ -17,6 +17,7 @@ namespace testGovna
         public static MySqlDataAdapter msDataAdapter = new MySqlDataAdapter();
 
         public static DataTable dtClient = new DataTable();
+        public static DataTable dtGender = new DataTable();
 
         public static bool Connection()
         {
@@ -51,6 +52,26 @@ namespace testGovna
                 return true;
             }
             catch
+            {
+                return false;
+            }
+        }
+
+        public static void GetGender()
+        {
+            command.CommandText = "SELECT * FROM gender";
+            dtGender.Clear();
+            msDataAdapter.Fill(dtGender);
+        }
+
+        public static bool AddClient()
+        {
+            command.CommandText = "INSERT INTO client VALUES ('{}')";
+            if (command.ExecuteNonQuery() > 0)
+            {
+                return true;
+            }
+            else
             {
                 return false;
             }
